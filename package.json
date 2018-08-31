@@ -1,0 +1,26 @@
+{
+  "name": "swagger-to-stubby",
+  "version": "0.0.1",
+  "description": "A npm library to convert swagger documentations in stubby files to local stub of the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malguzt/swagger-to-stubby.git"
+  },
+  "keywords": [
+    "swagger",
+    "stubby",
+    "json",
+    "stub",
+    "stubs"
+  ],
+  "author": "Jose Francisco Lenscak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malguzt/swagger-to-stubby/issues"
+  },
+  "homepage": "https://github.com/Malguzt/swagger-to-stubby#readme"
+}
