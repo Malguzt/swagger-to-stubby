@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+const version = require('../package.json').version
+const [ , , ...args] = process.argv
+
+if(args[0] === '-v') {
+  console.log(version)
+} 
